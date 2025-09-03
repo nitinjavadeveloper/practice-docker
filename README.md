@@ -1,6 +1,3 @@
-# practice-docker
-It has all the required information about docker
-
 # Docker Interview Questions and Answers for Experienced
 
 This document covers core Docker concepts, scenario-based questions, command-line practices, and real-world DevOps tasks for experienced engineers.
